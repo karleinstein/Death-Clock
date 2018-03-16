@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeathClock</string>
+    <string name="bmi">*To determine your Body Mass Index (BMI), enter your height and weight below</string>
+    <string name="title">The Lethal Danger of Being Fat</string>
+    <string name="bmi1">Excess weight has a dramatic impact on one\'s health.The BMI (body mass index) is a way to measure your disease risk based on your height to weight ratio. People with a BMI of 25 to 29 are considered overweight and those with a BMI of 30 or more are considered obese.</string>
+</resources>
